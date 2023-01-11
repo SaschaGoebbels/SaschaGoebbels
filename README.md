@@ -25,7 +25,5 @@
 
 <img align="left" alt="GitHub-Stats" src="https://github-readme-stats.vercel.app/api?username=SaschaGoebbels&theme=react&show_icon=true&hide_border=true" />
 
----
-
 [website]: https://saschagoebbels.netlify.app/
 [recipe_app]: https://kochstudio.netlify.app/
