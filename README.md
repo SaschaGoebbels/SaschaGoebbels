@@ -28,9 +28,5 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaschaGoebbels)](https://github.com/SaschaGoebbels/github-readme-stats)
-
----
-
 [website]: https://saschagoebbels.netlify.app/
 [recipe_app]: https://kochstudio.netlify.app/
