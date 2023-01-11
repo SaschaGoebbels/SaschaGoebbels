@@ -24,7 +24,13 @@
 
 ---
 
-<img align="left" alt="GitHub-Stats" src="https://github-readme-stats.vercel.app/api?username=SaschaGoebbels&theme=merko&show_icon=true&hide_border=true" />
+<img align="left" alt="GitHub-Stats" src="https://github-readme-stats.vercel.app/api?username=SaschaGoebbels&theme=react&show_icon=true&hide_border=true" />
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaschaGoebbels)](https://github.com/SaschaGoebbels/github-readme-stats)
+
+---
 
 [website]: https://saschagoebbels.netlify.app/
 [recipe_app]: https://kochstudio.netlify.app/
