@@ -5,7 +5,7 @@
 - 💥 Feel free to visit my Portfolio Page [website]
 - 🎩 I´m currently learning React JS and "everything else 🤣"
 - 🍕 I´m currently code some Recipe App to improve my Portfolio [recipe_app]
-- 🏆 2023 Main Goal is, to land my first Developer Job⚡
+- 🏆 2023 Main Goal is, to get my first Developer Job⚡
 
 ---
 
